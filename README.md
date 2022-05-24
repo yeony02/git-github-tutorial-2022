@@ -22,10 +22,19 @@ For library and information science class
 
 ### STEP 2. 새로운 `Branch` 생성하기
 
+![image](/img/2-1-createBranch.png)
+
 `New Branch`를 선택하고, 자신의 이름으로 브랜치를 생성합니다.
 
-- fork 선택
-- 두번째 선택지 중 첫번째 선택
+![image](/img/2-2-publishBranch-fork.png)
+
+- 'Fork this repository' 선택
+
+![image](/img/2-3-contribute.png)
+
+- 'To contribute to the parent project' 선택
+
+- Continue 선택
 
 ### STEP 3. 파일 수정하기
 
@@ -34,8 +43,22 @@ For library and information science class
 
 ### STEP 4. `git commit` & `git push`
 
-- 클릭 클릭
+![image](/img/4-1-changeLog.png)
+
+- github desktop에서 수정 사항 확인
+- 좌측 하단의 'Commit to ***' 클릭
+
+![image](/img/4-2-commit.png)
+
+- 'Push origin' 클릭
+
 
 ### STEP 5. `PULL REQUEST`
 
-- 클릭 클릭
+![image](/img/4-3-push-origin.png)
+
+- 'Create Pull Request' 클릭
+
+![image](/img/4-4-pullRequest.png)
+
+- 브라우저가 열리면, 'Create pull request' 클릭
