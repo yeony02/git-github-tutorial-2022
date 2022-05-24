@@ -57,6 +57,6 @@ For library and information science class
 
 ![image](/img/4-3-push-origin.png)
 
-- 브라우저가 열리면, `Create pull request` 클릭
+- 원격 저장소로 돌아온 다음, `Create pull request` 클릭
 
 ![image](/img/4-4-pullRequest.png)
