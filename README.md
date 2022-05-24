@@ -6,9 +6,13 @@ For library and information science class
 
 [data-class](/data-class/) 폴더 안에 있는 [your-name.txt](/data-class/your-name.txt)의 파일 이름과 내용을 수정하고, 원격 저장소에 수정사항을 반영하는 것이 목표입니다.
 
-### Step1. 원격 저장소 `fork` 하기
+### Step1. 원격 저장소 GitHub Desktop으로 열기
 
-![fork image](/img/fork.png)
+![image](/img/img1.png)
+
+`Open with GitHub Desktop`을 클릭하고, 아래와 같이 GitHub Desktop이 나오는지 확인합니다.
+
+![image](/img/github-desktop-img.png)
 
 ### Step2.
 
