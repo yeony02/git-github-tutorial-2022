@@ -8,6 +8,8 @@ For library and information science class
 
 ### Step1. 원격 저장소 `fork` 하기
 
+[fork image](/img/fork.png)
+
 ### Step2.
 
 - 파일명은 본인의 이름으로 수정합니다. 예) parkharam.txt
