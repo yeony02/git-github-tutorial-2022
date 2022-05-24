@@ -6,6 +6,12 @@ For library and information science class
 
 [data-class](/data-class/) 폴더 안에 있는 [your-name.txt](/data-class/your-name.txt)의 파일 이름과 내용을 수정하고, 원격 저장소에 수정사항을 반영하는 것이 목표입니다.
 
+### Ready for Start
+
+- [GitHub 계정 생성](http://github.com)
+- [git 설치](https://git-scm.com/download/)
+- [GitHub Desktop 설치](http://desktop.github.com)
+
 ### Step1. 원격 저장소 GitHub Desktop으로 열기
 
 ![image](/img/img1.png)
